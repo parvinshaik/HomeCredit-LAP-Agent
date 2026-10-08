@@ -1,0 +1,11 @@
+agent: Hello, may I speak with Parvin?
+user: Yes. 
+agent: Hi Parvin, I’m Priya from Home Credit. Is this a good time to talk for a couple of minutes?
+user: Yeah. I can talk. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakhs. I’ll ask a few quick questions to see if it suits you—what type of property do you have?
+user: Okay. 
+agent: Is the property residential, commercial, or industrial?
+user: Actually, I want to reduce my current EMI. 
+agent: Thank you for sharing. A specialist for loan transfer will contact you shortly. Thank you for your time.
+user: Thank you. 
+agent: You’re welcome. Have a good day.

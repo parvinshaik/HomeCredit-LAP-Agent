@@ -1,0 +1,27 @@
+agent: Hello, may I speak with Parvin?
+user: Yes. 
+agent: Is this a good time to talk for a couple of minutes?
+user: Yes. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakhs. May I ask a few quick questions to see if it suits you?
+user: Yes. 
+agent: What type of property is it: residential, commercial, or industrial?
+user: Residential. 
+agent: Is the property solely owned by you or jointly owned?
+user: Only wanted by me. 
+agent: Is it solely owned by you?
+user: Yes. 
+agent: Do you have the original property documents available for verification?
+user: Yes. 
+agent: How much loan amount do you need?
+user: Fifty lakhs. 
+agent: What is your occupation: salaried or self-employed?
+user: Salaried. 
+agent: Do you receive your income through a bank account or 
+user: Bank 
+agent: in cash?
+user: account. 
+agent: What’s the approximate current market value of the property?
+user: Eighty lakhs. 
+agent: What repayment tenure would you prefer, in years?
+user: Twenty years. 
+agent: Thank you for the information. Unfortunately, you don’t meet the criteria for this specific offer at this time. Thank you for your time.

@@ -1,0 +1,9 @@
+agent: Hello, may I speak with Parvin?
+user: Yes. 
+agent: Is this a good time to talk for a couple of minutes?
+user: I'm in a  meeting right now. 
+agent: What time would be convenient for a callback?
+user: Can you call me tomorrow evening around six PM? 
+agent: I'll call you tomorrow, Friday, October 9th, around 6 PM. Thank you for your time.
+user: Thank you. 
+agent: You're welcome. Have a good meeting.
